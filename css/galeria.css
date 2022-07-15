@@ -1,0 +1,100 @@
+.contenedor-galeria{
+	width:657px;
+	height:502px;
+	left:50%;
+	top:50%;
+}
+
+
+.img1{
+	height:36vh;
+	background-size:150% 120%;
+}
+
+.img2{
+	bottom:15vh;
+	height:21vh;
+	background-size:170% 100%;	
+}
+
+.img3{
+	bottom:1vh;
+	height:35vh;
+}
+
+.img4{
+	top:-13.5vh;
+	height:17.5vh;
+	background-size: 200% 100%;
+}
+
+.img5{
+	top:-14.5vh;
+	height:31.5vh;
+	background-size: 200% 100%;
+}
+
+.img6{
+	top:-8vh;
+	height:24vh;
+	background-size: 120% 130%;
+}
+
+.img1a{
+	bottom:16vh;
+	height:28vh;
+	background-size:170% 100%;	
+}
+
+.img4a{
+	top:-15.5vh;
+	height:30vh;
+	background-size: 200% 100%;
+}
+
+.img2a{
+	top:-15vh;
+	height:30vh;
+	background-size:150% 120%;	
+}
+.img5a{
+	top: -16vh;
+	height:28.5vh;
+	background-size: 200% 100%;	
+}
+
+
+.img3a{
+	bottom:7.5vh;
+	height:31vh;
+	background-size:170% 100%;
+}
+
+.img6a{
+	top:-16vh;
+	height:21vh;
+	background-size: 200% 100%;
+}
+
+.img1b{
+	top:-16vh;
+	height:35vh;
+	background-size:170% 100%;	
+}
+
+.img7{
+	margin-top: -5em;
+	height:25vh;
+	border-radius: 10em;
+	width: 200px;
+	height: 200px;
+	background-size: 100% 100%;	
+	background-position: top;
+}
+
+.bg-cover{
+	display: inline-block;
+	background-position:center;
+	background-size: cover;
+	border-radius: 2em;
+}

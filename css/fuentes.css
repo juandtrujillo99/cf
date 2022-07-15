@@ -1,0 +1,128 @@
+@font-face{font-family: "GothamBlack";src: url(font-folder/gotham/GothamBlack.otf);}
+#GothamBlack{font-family: "GothamBlack";}
+
+@font-face{font-family: "GothamBold";src: url(font-folder/gotham/GothamBold.otf);}
+#GothamBold{font-family: "GothamBold";}
+
+@font-face{font-family: "GothamBoldItalic";src: url(font-folder/gotham/GothamBoldItalic.ttf);}
+#GothamBoldItalic{font-family: "GothamBoldItalic";}
+
+@font-face{font-family: "GothamBook";src: url(font-folder/gotham/GothamBook.ttf);}
+#GothamBook{font-family: "GothamBook";}
+
+@font-face{font-family: "GothamBookItalic";src: url(font-folder/gotham/GothamBookItalic.otf);}
+#GothamBookItalic{font-family: "GothamBookItalic";}
+
+@font-face{font-family: "GothamLight";src: url(font-folder/gotham/GothamLight.otf);}
+#GothamLight{font-family: "GothamLight";}
+
+@font-face{font-family: "GothamLightItalic";src: url(font-folder/gotham/GothamLightItalic.ttf);}
+#GothamLightItalic{font-family: "GothamLightItalic";}
+
+@font-face{font-family: "GothamMedium";src: url(font-folder/gotham/GothamMedium.ttf);}
+#GothamMedium{font-family: "GothamMedium";}
+
+@font-face{font-family: "GothamThin";src: url(font-folder/gotham/GothamThin.otf);}
+#GothamThin{font-family: "GothamThin";}
+
+@font-face{font-family: "GothamThinItalic";src: url(font-folder/gotham/GothamThinItalic.otf);}
+#GothamThinItalic{font-family: "GothamThinItalic";}
+
+@font-face{font-family: "GothamThinUltraItalic";src: url(font-folder/gotham/GothamThinUltraItalic.otf);}
+#GothamThinUltraItalic{font-family: "GothamThinUltraItalic";}
+
+@font-face{font-family: "GothamXLight";src: url(font-folder/gotham/GothamXLight.otf);}
+#GothamXLight{font-family: "GothamXLight";}
+
+@font-face{font-family: "GothamXLightItalic";src: url(font-folder/gotham/GothamXLightItalic.otf);}
+#GothamXLightItalic{font-family: "GothamXLightItalic";}
+
+
+
+@font-face{font-family: "SpartanBlack";src: url(font-folder/spartan/SpartanBlack.ttf);}
+#SpartanBlack{font-family: "SpartanBlack";}
+
+@font-face{font-family: "SpartanExtraBold";src: url(font-folder/spartan/SpartanExtraBold.ttf);}
+#SpartanExtraBold{font-family: "SpartanExtraBold";}
+
+@font-face{font-family: "SpartanBold";src: url(font-folder/spartan/SpartanBold.ttf);}
+#SpartanBold{font-family: "SpartanBold";}
+
+@font-face{font-family: "SpartanSemiBold";src: url(font-folder/spartan/SpartanSemiBold.ttf);}
+#SpartanSemiBold{font-family: "SpartanSemiBold";}
+
+@font-face{font-family: "SpartanBoldItalic";src: url(font-folder/spartan/SpartanBoldItalic.ttf);}
+#SpartanBoldItalic{font-family: "SpartanBoldItalic";}
+
+@font-face{font-family: "SpartanBook";src: url(font-folder/spartan/SpartanBook.ttf);}
+#SpartanBook{font-family: "SpartanBook";}
+
+@font-face{font-family: "SpartanRegular";src: url(font-folder/spartan/SpartanRegular.ttf);}
+#SpartanRegular{font-family: "SpartanRegular";}
+
+@font-face{font-family: "SpartanBookItalic";src: url(font-folder/spartan/SpartanBookItalic.ttf);}
+#SpartanBookItalic{font-family: "SpartanBookItalic";}
+
+@font-face{font-family: "SpartanLight";src: url(font-folder/spartan/SpartanLight.ttf);}
+#SpartanLight{font-family: "SpartanLight";}
+
+@font-face{font-family: "SpartanLightItalic";src: url(font-folder/spartan/SpartanLightItalic.ttf);}
+#SpartanLightItalic{font-family: "SpartanLightItalic";}
+
+@font-face{font-family: "SpartanMedium";src: url(font-folder/spartan/SpartanMedium.ttf);}
+#SpartanMedium{font-family: "SpartanMedium";}
+
+@font-face{font-family: "SpartanThin";src: url(font-folder/spartan/SpartanThin.ttf);}
+#SpartanThin{font-family: "SpartanThin";}
+
+@font-face{font-family: "SpartanThinItalic";src: url(font-folder/spartan/SpartanThinItalic.ttf);}
+#SpartanThinItalic{font-family: "SpartanThinItalic";}
+
+@font-face{font-family: "SpartanThinUltraItalic";src: url(font-folder/spartan/SpartanThinUltraItalic.ttf);}
+#SpartanThinUltraItalic{font-family: "SpartanThinUltraItalic";}
+
+@font-face{font-family: "SpartanXLight";src: url(font-folder/spartan/SpartanXLight.ttf);}
+#SpartanXLight{font-family: "SpartanXLight";}
+
+@font-face{font-family: "SpartanXLightItalic";src: url(font-folder/spartan/SpartanXLightItalic.ttf);}
+#SpartanXLightItalic{font-family: "SpartanXLightItalic";}
+
+
+
+
+
+
+
+
+@font-face{font-family: "FuturaBold";src: url(font-folder/futura/FuturaBold.ttf);}
+#FuturaBold{font-family: "FuturaBold";}
+
+@font-face{font-family: "FuturaBook";src: url(font-folder/futura/FuturaBook.ttf);}
+#FuturaBook{font-family: "FuturaBook";}
+
+@font-face{font-family: "FuturaLight";src: url(font-folder/futura/FuturaLight.ttf);}
+#FuturaLight{font-family: "FuturaLight";}
+
+@font-face{font-family: "FuturaMedium";src: url(font-folder/futura/FuturaMedium.ttf);}
+#FuturaMedium{font-family: "FuturaMedium";}
+
+@font-face{font-family: "FuturaSemi";src: url(font-folder/futura/FuturaSemi.ttf);}
+#FuturaSemi{font-family: "FuturaSemi";}
+
+
+
+
+@font-face{font-family: "FuturaBold";src: url(font-folder/futura/FuturaBold.otf);}
+#FuturaBold{font-family: "FuturaBold";}
+
+@font-face{font-family: "FuturaBook";src: url(font-folder/futura/FuturaBook.otf);}
+#FuturaBook{font-family: "FuturaBook";}
+
+@font-face{font-family: "FuturaLight";src: url(font-folder/futura/FuturaLight.otf);}
+#FuturaLight{font-family: "FuturaLight";}
+
+@font-face{font-family: "FuturaMedium";src: url(font-folder/futura/FuturaMedium.otf);}
+#FuturaMedium{font-family: "FuturaMedium";}
+
+@font-face{font-family: "FuturaSemi";src: url(font-folder/futura/FuturaSemi.otf);}
+#FuturaSemi{font-family: "FuturaSemi";}
